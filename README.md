@@ -1,46 +1,40 @@
-<h2 align="left">Hi 👋! My name is Asen Dulakshana and I'm a Machine Learning Engineer from Sri Lanka.</h2>
+# Hi there! 👋 I'm Asen
 
-###
+Welcome to my GitHub profile! I'm passionate about AI, machine learning, software development, and all things tech. I love working on projects that solve real-world problems and constantly strive to learn new things.
 
-<h2 align="left">Tech Stack</h2>
+## 🚀 About Me
+- 🎯 Aspiring Software Engineering Students 
+- 🖥️ Experienced in Python, C++, C#
+- 📚 Exploring topics in Machine Learning, Deep Learning and Artificial intelligence.
+- 🔬 Currently learning Machine Learning and Deep Learning topics.
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-</div>
+## 🔧 Tech Stack
+- **Programming Languages:** Python, C++, C#, Java, Javascript 
+- **Machine Learning & AI:** PyTorch, TensorFlow, OpenCV, Numpy, Pandas...
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Platforms:** Postman, GitHub
+<!--
+## 📌 Projects
+### 🔹 Aerial Image Segmentation with PyTorch
+- Implementing and optimizing deep learning models for image segmentation.
+- Writing a blog post to document the process and findings.
 
-###
+### 🔹 SQL Learning Journey
+- Covering topics like Joins, GROUP BY, HAVING, and more.
+- Hands-on practice with databases and queries.
 
-<h2 align="left">Find Me</h2>
+### 🔹 AI from Scratch
+- Implementing Quantity Loss in Python.
+- Building fundamental ML models without high-level libraries.
+-->
 
-###
+## 📫 Let's Connect!
+- 🌐 [Portfolio](#) *(Coming Soon!)*
+- 📩 Email: asendulakshanabse@gmail.com
+- 💼 LinkedIn: [Your Profile](#)
+- 🐦 Facebook: [@yourhandle](#)
+  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
+Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
 
-###
-
-<div align="center">
-  <img height="340" src="https://imgflip.com/gif/9lk4nu.gif"  />
-</div>
-
-###
