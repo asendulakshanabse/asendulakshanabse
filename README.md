@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about AI, machine learning, software development, and all things tech. I love working on projects that solve real-world problems and constantly strive to learn new things.
 
 ## 🚀 About Me
-- 🎯 Aspiring Software Engineering Students 
+- 🎯 Aspiring Software Engineering Student 
 - 🖥️ Experienced in Python, C++, C#
 - 📚 Exploring topics in Machine Learning, Deep Learning and Artificial intelligence.
 - 🔬 Currently learning Machine Learning and Deep Learning topics.
